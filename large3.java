@@ -12,6 +12,7 @@ public class large3{
         }
         else{
             System.out.println("c -" + c);
+            System.out.println("sandya");
         }
     }
 }
